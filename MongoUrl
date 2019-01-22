@@ -1,0 +1,11 @@
+Based on the context:
+DSL stands for Domain Specific Language
+AST stands for Abstract Syntax Tree
+
+https://github.com/querydsl/querydsl
+https://github.com/querydsl/querydsl/tree/master/querydsl-mongodb
+
+http://www.querydsl.com/
+http://www.querydsl.com/static/querydsl/2.1.0/reference/html/ch02s07.html
+http://www.techsand.com/2013/05/simple-pagination-for-mongodb-queries.html
+http://blog.mysema.com/2010/11/mongodb-with-querydsl.html
